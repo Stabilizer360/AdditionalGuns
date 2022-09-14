@@ -254,5 +254,63 @@
         "name": "additionalguns:item/heavy_suppression"
       }
     ]
+  },
+  "item.ak105.fire": {
+    "subtitle": "subtitle.additionalguns.regular_fire",
+    "sounds": [
+      {
+        "name": "additionalguns:item/ak105_fire"
+      }
+    ]
+  },
+  "item.ak104.fire": {
+    "subtitle": "subtitle.additionalguns.regular_fire",
+    "sounds": [
+      {
+        "name": "additionalguns:item/ak104_fire"
+      }
+    ]
+  },
+  "item.akm_custom.fire": {
+    "subtitle": "subtitle.additionalguns.regular_fire",
+    "sounds": [
+      {
+        "name": "additionalguns:item/akm_custom_fire"
+      }
+    ]
+  },
+  "item.m16a2.fire": {
+    "subtitle": "subtitle.additionalguns.regular_fire",
+    "sounds": [
+      {
+        "name": "additionalguns:item/m16a2_fire"
+      }
+    ]
+  },
+
+  "item.m4a1s.fire": {
+    "subtitle": "subtitle.additionalguns.regular_fire",
+    "sounds": [
+      {
+        "name": "additionalguns:item/m4a1s_fire"
+      }
+    ]
+  },
+  "item.ak74m.fire": {
+    "subtitle": "subtitle.additionalguns.regular_fire",
+    "sounds": [
+      {
+        "name": "additionalguns:item/ak74m_fire"
+      }
+    ]
+  },
+
+  "item.glock18.fire": {
+    "subtitle": "subtitle.additionalguns.regular_fire",
+    "sounds": [
+      {
+        "name": "additionalguns:item/glock18_fire"
+      }
+    ]
   }
 }
