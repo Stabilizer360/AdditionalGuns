@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench by ThatAvocado_Boi",
+	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
 		"3": "additionalguns:item/ak105"
@@ -756,7 +756,7 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"translation": [0, 6.75, -13],
+			"translation": [0, 7.5, -13],
 			"scale": [1.5, 1.5, 1.5]
 		},
 		"thirdperson_lefthand": {
@@ -764,7 +764,7 @@
 			"scale": [1.5, 1.5, 1.5]
 		},
 		"firstperson_righthand": {
-			"translation": [-4.25, 10.25, -5.25],
+			"translation": [-5.25, 10.9, -5.25],
 			"scale": [1.25, 1.25, 1.25]
 		},
 		"firstperson_lefthand": {

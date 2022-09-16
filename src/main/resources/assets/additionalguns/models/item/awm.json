@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench by VIKTORWOOD",
+	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
 		"0": "additionalguns:item/awm",
@@ -580,10 +580,10 @@
 			"scale": [1, 1, 0.82]
 		},
 		"firstperson_righthand": {
-			"translation": [-3.25, 9.75, -6]
+			"translation": [-5.5, 10, -6.25]
 		},
 		"firstperson_lefthand": {
-			"translation": [-3.25, 9.75, -6]
+			"translation": [-4.75, 9.75, -6.25]
 		},
 		"ground": {
 			"translation": [0, 3.5, 0],

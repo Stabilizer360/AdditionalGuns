@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench by ThatAvocado_Boi",
+	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
 		"3": "additionalguns:item/mammoth"
@@ -501,10 +501,10 @@
 			"scale": [1.4, 1.4, 1.4]
 		},
 		"firstperson_righthand": {
-			"translation": [-3.75, 8.75, -1.25]
+			"translation": [-5.25, 9.85, -1]
 		},
 		"firstperson_lefthand": {
-			"translation": [-3.75, 8.75, -1.25]
+			"translation": [-4.75, 9.85, -1]
 		},
 		"ground": {
 			"translation": [0, 5, -1]
